@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/LICENSE": "819214ed2a43f0f3b4bbdf05b11dfb7b",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"main.dart.js": "b35b585a1fbabfef8fd15856e39f0319"
+"main.dart.js": "aafe9efdfd776c427629573308c10963"
 };
 
 self.addEventListener('activate', function (event) {
